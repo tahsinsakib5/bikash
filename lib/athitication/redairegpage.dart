@@ -3,9 +3,6 @@ import 'package:bikash/homepage.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
-
-
-
 class Redairegpage extends StatelessWidget {
   const Redairegpage({super.key});
 

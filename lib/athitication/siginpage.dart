@@ -103,7 +103,7 @@ class _SingupState extends State<Singup> {
         email: emailcontroler.text.trim(),
         password: paswordcotroler.text.trim());
 
-    return userinfo.user!.uid;
+    return userinfo.user!.email;
   }
 
   Future userdata(String uid, Map<String, dynamic> data) async {
