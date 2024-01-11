@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889129477210",
+    "project_id": "firepactise",
+    "storage_bucket": "firepactise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889129477210:android:8c40076b2ae9e7395ae463",
+        "android_client_info": {
+          "package_name": "com.example.bikash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWmDX4bfdiSUjtQNMZxC76IUzMwlMTWOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
