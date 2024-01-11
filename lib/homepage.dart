@@ -36,7 +36,12 @@ class HomePage extends StatelessWidget {
                 color:Colors.grey[200]
               ),
               child:Center(child: Text("\$ 00.0",style:TextStyle(fontSize:20),)),
-             )
+             ),
+
+
+             IconButton(onPressed: () {
+               
+             }, icon: Icon(Icons.logout))
              
         
             ],

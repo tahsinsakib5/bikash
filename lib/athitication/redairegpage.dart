@@ -17,7 +17,7 @@ class Redairegpage extends StatelessWidget {
         if (snapshot.hasData) {
           return HomePage();
         } else {
-          return HomePage();
+          return loginpage();
         }
       },
     );
